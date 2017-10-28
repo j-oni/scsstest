@@ -1,0 +1,11 @@
+$h1color: black;
+body {
+  width: 100%;
+  background-color: orange;
+}
+h1 {
+  color: $h1color;
+  padding: 40px;
+  margin: 40px;
+  background-color: yellow;
+}
